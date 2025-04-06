@@ -23,7 +23,7 @@ We also request you to disregard divisive campaigns led by a small faction of fo
 
 Welcome to Pakistan, where tradition meets tomorrow.
 
-Sincerely,`;
+Sincerely`;
             // Display the initial default email body
             emailTextArea.textContent = defaultEmailBody;
 
